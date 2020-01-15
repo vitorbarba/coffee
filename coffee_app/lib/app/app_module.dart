@@ -1,19 +1,55 @@
-import 'package:coffee/app/app_controller.dart';
-import 'package:bloc_pattern/bloc_pattern.dart';
 import 'package:flutter/material.dart';
-import 'package:coffee/app/app_widget.dart';
+import 'package:flutter_mobx/flutter_mobx.dart';
 
-class AppModule extends ModuleWidget {
+import 'package:coffee/app/counter.dart'; // Import the Counter
+
+final counter = Counter(); // Instantiate the store
+
+class AppModule extends StatelessWidget {
+  // This widget is the root of your application.
   @override
-  List<Bloc> get blocs => [
-        Bloc((i) => AppController()),
-      ];
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'MobX',
+      theme: ThemeData(
+        primarySwatch: Colors.blue,
+      ),
+      home: const MyHomePage(),
+    );
+  }
+}
+
+class MyHomePage extends StatelessWidget {
+  const MyHomePage();
 
   @override
-  List<Dependency> get dependencies => [];
-
-  @override
-  Widget get view => AppWidget();
-
-  static Inject get to => Inject<AppModule>.of();
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('MobX Counter'),
+      ),
+      body: Center(
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: <Widget>[
+            Text(
+              'You have pushed the button this many times:',
+            ),
+            // Wrapping in the Observer will automatically re-render on changes to counter.value
+            Observer(
+              builder: (_) => Text(
+                '${counter.value}',
+                style: Theme.of(context).textTheme.display1,
+              ),
+            ),
+          ],
+        ),
+      ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: counter.increment,
+        tooltip: 'Increment',
+        child: Icon(Icons.add),
+      ),
+    );
+  }
 }
