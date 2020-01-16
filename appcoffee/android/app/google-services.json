@@ -1,0 +1,227 @@
+{
+  "project_info": {
+    "project_number": "453788968599",
+    "firebase_url": "https://easyday-28ab0.firebaseio.com",
+    "project_id": "easyday-28ab0",
+    "storage_bucket": "easyday-28ab0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453788968599:android:8ade9c92b8c64c40b1ebd2",
+        "android_client_info": {
+          "package_name": "br.com.easyday.flutter_coffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453788968599-lui9o054n4182guo05dod8ue8dajpn4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWnQBwiGu6R035Gafy-ubzjHa8YSCzL6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453788968599-k7sise0o8ddh14evju2r6bce6svsct8f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "453788968599-ji393iodraugn5q0djnrg8ljm8383gc0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appcoffee"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453788968599:android:58d0f5e40a6d7256b1ebd2",
+        "android_client_info": {
+          "package_name": "br.com.easyday.gerente_loja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453788968599-lui9o054n4182guo05dod8ue8dajpn4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWnQBwiGu6R035Gafy-ubzjHa8YSCzL6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453788968599-k7sise0o8ddh14evju2r6bce6svsct8f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "453788968599-ji393iodraugn5q0djnrg8ljm8383gc0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appcoffee"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453788968599:android:7fd43ab57479601db1ebd2",
+        "android_client_info": {
+          "package_name": "br.com.easyday.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453788968599-lui9o054n4182guo05dod8ue8dajpn4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWnQBwiGu6R035Gafy-ubzjHa8YSCzL6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453788968599-k7sise0o8ddh14evju2r6bce6svsct8f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "453788968599-ji393iodraugn5q0djnrg8ljm8383gc0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appcoffee"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453788968599:android:7e73307395dd0bba",
+        "android_client_info": {
+          "package_name": "com.easyday.baby_names"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453788968599-lui9o054n4182guo05dod8ue8dajpn4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWnQBwiGu6R035Gafy-ubzjHa8YSCzL6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453788968599-k7sise0o8ddh14evju2r6bce6svsct8f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "453788968599-ji393iodraugn5q0djnrg8ljm8383gc0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appcoffee"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453788968599:android:95e3c03073f34111",
+        "android_client_info": {
+          "package_name": "com.easyday.lista_de_tarefas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453788968599-lui9o054n4182guo05dod8ue8dajpn4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWnQBwiGu6R035Gafy-ubzjHa8YSCzL6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453788968599-k7sise0o8ddh14evju2r6bce6svsct8f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "453788968599-ji393iodraugn5q0djnrg8ljm8383gc0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appcoffee"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453788968599:android:52d2dd23cf5dea05b1ebd2",
+        "android_client_info": {
+          "package_name": "com.example.appcoffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453788968599-lui9o054n4182guo05dod8ue8dajpn4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWnQBwiGu6R035Gafy-ubzjHa8YSCzL6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453788968599-k7sise0o8ddh14evju2r6bce6svsct8f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "453788968599-ji393iodraugn5q0djnrg8ljm8383gc0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appcoffee"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

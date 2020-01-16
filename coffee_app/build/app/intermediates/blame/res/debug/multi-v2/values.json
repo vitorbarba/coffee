@@ -1,8 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\dev\\coffee\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\Acer\\Documents\\GitHub\\coffee\\coffee_app\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
+                {
+                    "source": "C:\\Users\\Acer\\Documents\\GitHub\\coffee\\coffee_app\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "353"
+                    },
+                    "to": {
+                        "startLines": "41",
+                        "startColumns": "4",
+                        "startOffsets": "2477",
+                        "endLines": "45",
+                        "endColumns": "12",
+                        "endOffsets": "2769"
+                    }
+                },
                 {
                     "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\ae13efc3dbae5c9ee58d4933337fcd21\\coordinatorlayout-1.0.0\\res\\values\\values.xml",
                     "from": {
@@ -20,25 +39,6 @@
                         "endLines": "2,61,78,167",
                         "endColumns": "60,12,24,24",
                         "endOffsets": "111,3811,4717,9928"
-                    }
-                },
-                {
-                    "source": "C:\\dev\\coffee\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "353"
-                    },
-                    "to": {
-                        "startLines": "41",
-                        "startColumns": "4",
-                        "startOffsets": "2477",
-                        "endLines": "45",
-                        "endColumns": "12",
-                        "endOffsets": "2769"
                     }
                 },
                 {
